@@ -1,6 +1,7 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Jayalekshmi</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=jayalekshmir alt=jayalekshmir/> </p>
 
 <!-- Short Bio -->
 - 🔭 I’m currently working on **Getting a Certification in AWS, also Creating a portfolio**  
