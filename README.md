@@ -26,15 +26,6 @@
 
 ---
 
-<!-- GitHub Stats -->
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayalekshmirajeswari&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayalekshmirajeswari&theme=radical" alt="streaks" />
-</p>
-
----
-
 <!-- Connect -->
 ### 🤝 Let's Connect
 <h3 align="left">Connect with me:</h3>
