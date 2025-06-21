@@ -43,3 +43,7 @@
 <a href="https://linkedin.com/in/jayalekshmir/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jayalekshmir" height="30" width="40" /></a>
 <a href="https://instagram.com/jay.rj96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jay.rj96" height="30" width="40" /></a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayalekshmir&show_icons=true&locale=en&layout=compact" alt="jayalekshmir" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayalekshmir&show_icons=true&locale=en" alt="jayalekshmir" /></p>
