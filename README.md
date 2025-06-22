@@ -2,6 +2,11 @@
 <h1 align="center">Hi 👋, I'm Jayalekshmi</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=jayalekshmir alt=jayalekshmir/> </p>
+<a align="center" href="https://github.com/CLiz17?tab=repositories">
+    <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayalekshmir&theme=github_dark" alt="my github stats"/>&nbsp;
+    </p>
+</a>
 
 <!-- Short Bio -->
 - 🔭 I’m currently working on **Getting a Certification in AWS, also Creating a portfolio**  
