@@ -1,6 +1,7 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Jayalekshmi</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
+
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=jayalekshmir alt=jayalekshmir/> </p>
 <a align="center" href="https://github.com/CLiz17?tab=repositories">
     <p align="center">
@@ -12,7 +13,7 @@
 - 🔭 I’m currently working on **Getting a Certification in AWS, also Creating a portfolio**  
 - 🌱 I’m currently learning **Advanced React, Next.js, and Some Backend technologies like NodeJs, Java**  
 - 💬 Ask me about **Vue, React, JavaScript, HTML/CSS, Performance Optimization, and UX**  
-- 👩‍💻 All of my projects will be available at my portfolio soon!  
+- 👩‍💻 All of my projects will be available at my [portfolio](https://jayalekshmi-github-io.vercel.app/)!  
 - 📫 How to reach me: **jayalekshmirajeswari@gmail.com**  
 - ⚡ Fun fact: *I love debugging as much as building!*
 
